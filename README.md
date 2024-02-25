@@ -8,22 +8,22 @@ I've been programming for over 6 years and started with Java, however quickly sw
 I'm currently at university studying general-purpose CS, doing freelance work, contributing to and making FOSS projects and making paid products.
 
 ### The languages I know
-- **TypeScript** - the language I love and know most.
+- **TypeScript** - the language I love and know most
   - React
   - Svelte
   - Astro
   - Node.js and Bun, Express
   - ORMs and database adapters
-- **Java** - still holds a soft spot in my heart, being my first language.
+- **Java** - still holds a soft spot in my heart
 - **C#**
 - **Lua**
 - **Python**
 - **C++** - only for university purposes
-- Bash-like langs.
+- Bash-like langs
 - SQL
 
 Languages I wish I knew better:
-> - **Rust** - ownerships scare me
+- **Rust** - ownerships scare me
 
 Except for programming, I also do non-commercial graphic design, system administration and for-fun music making.
 
