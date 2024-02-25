@@ -1,7 +1,7 @@
 ##  NorteX
 ### Welcome to my profile!
 
-Hello, I'm NorteX or as often referred to as nortexdev. I live and study in Poland. I'm a passionate TypeScript dev with plenty of hours in other languages as well.
+Hello, I'm NorteX or also: nortexdev. I live and study in Poland. I'm a passionate TypeScript dev with plenty of hours in other languages as well.
 
 I've been programming for over 6 years and started with Java, however quickly switched off of it in favor of other OOP languages like C# and JavaScript. Nowadays I mostly stick with TypeScript, the better counterpart of JavaScript. Though I like to think of myself as a back-end dev, I also interact a lot with web technologies, both back and front-end, such as React and Svelte.
 
