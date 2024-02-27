@@ -24,6 +24,7 @@ I'm currently at university studying general-purpose CS, doing freelance work, c
 
 Languages I wish I knew better:
 - **Rust** - ownerships scare me
+- **Kotlin**
 
 Except for programming, I also do non-commercial graphic design, system administration and for-fun music making.
 
